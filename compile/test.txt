@@ -1,0 +1,8 @@
+module space{
+    struct A1{
+    short a2=10;
+    short a2=100;
+    };
+
+};
+
